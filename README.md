@@ -1,13 +1,13 @@
-# blkid
+# just_the_facts
 
 #### Table of Contents
 
 1. [Overview](#overview)
 2. [Module Description - What the module does and why it is useful](#module-description)
-3. [Setup - The basics of getting started with blkid](#setup)
-    * [What blkid affects](#what-blkid-affects)
+3. [Setup - The basics of getting started with just_the_facts](#setup)
+    * [What just_the_facts affects](#what-just_the_facts-affects)
     * [Setup requirements](#setup-requirements)
-    * [Beginning with blkid](#beginning-with-blkid)
+    * [Beginning with just_the_facts](#beginning-with-just_the_facts)
 4. [Usage - Configuration options and additional functionality](#usage)
 5. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
 5. [Limitations - OS compatibility, etc.](#limitations)
@@ -31,7 +31,7 @@ management, etc.) this is the time to mention it.
 
 ## Setup
 
-### What blkid affects
+### What just_the_facts affects
 
 * A list of files, packages, services, or operations that the module will alter,
   impact, or execute on the system it's installed on.
@@ -43,7 +43,7 @@ management, etc.) this is the time to mention it.
 If your module requires anything extra before setting up (pluginsync enabled,
 etc.), mention it here.
 
-### Beginning with blkid
+### Beginning with just_the_facts
 
 The very basic steps needed for a user to get the module up and running.
 

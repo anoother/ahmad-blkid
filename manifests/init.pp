@@ -1,6 +1,6 @@
-# == Class: blkid
+# == Class: just_the_facts
 #
-# Full description of class blkid here.
+# Full description of class just_the_facts here.
 #
 # === Parameters
 #
@@ -23,7 +23,7 @@
 #
 # === Examples
 #
-#  class { 'blkid':
+#  class { 'just_the_facts':
 #    servers => [ 'pool.ntp.org', 'ntp.local.company.com' ],
 #  }
 #
@@ -35,7 +35,7 @@
 #
 # Copyright 2017 Your name here, unless otherwise noted.
 #
-class blkid {
+class just_the_facts {
 
 
 }

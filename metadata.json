@@ -1,12 +1,12 @@
 {
-  "name": "ahmad-blkid",
+  "name": "ahmad-just_the_facts",
   "version": "0.1.0",
   "author": "ahmad",
-  "summary": "Get facts about partitions from blkid",
+  "summary": "A hodgepodge collection of facts",
   "license": "GPL v3",
-  "source": "https://github.com/anoother/ahmad-blkid",
-  "project_page": "https://github.com/anoother/ahmad-blkid",
-  "issues_url": "https://github.com/anoother/ahmad-blkid/issues",
+  "source": "https://github.com/anoother/ahmad-just_the_facts.git",
+  "project_page": "https://github.com/anoother/ahmad-just_the_facts",
+  "issues_url": "https://github.com/anoother/ahmad-just_the_facts/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
